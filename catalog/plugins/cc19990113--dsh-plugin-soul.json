@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "CC19990113/dsh-plugin-soul",
+  "name": "dsh-plugin-soul",
+  "repository": "https://github.com/CC19990113/dsh-plugin-soul",
+  "category": "memory",
+  "description": {
+    "en": "A writable, git-versioned self for DSH: IDENTITY/SOUL/USER/RULES Markdown re-read into the system prompt on every assembly (edit the file, no restart), gated self-editing (limited chars/day, mandatory why, auto-committed), evidence-gated journal-to-dream promotion into SOUL, whitelisted self-upgrades that must pass node --check with one-click rollback, and a Settings persona tab.",
+    "zh": "给 DSH 一个可写、可回滚、每轮在场的自我：IDENTITY/SOUL/USER/RULES 四份 Markdown 每次装配都重新读进 system prompt（改文件即生效、不用重启）；自改受闸门约束（单次字符上限、每日次数、why 必填、自动 git 提交）；journal→dream 只把跨 2 天出现 3 次以上的证据升格进 SOUL；自我升级限白名单、必须过 node --check、失败整体还原；另带设置页「人格」tab。"
+  },
+  "added": "2026-10-26"
+}
